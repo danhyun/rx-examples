@@ -13,5 +13,6 @@ repositories {
 
 dependencies {
 	compile 'com.netflix.rxjava:rxjava-core:0.19.6'
+	compile 'com.netflix.rxjava:rxjava-async-util:0.19.6'
 	compile 'com.netflix.rxjava:rxjava-groovy:0.19.6'
 }
